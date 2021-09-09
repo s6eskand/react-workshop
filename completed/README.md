@@ -11,11 +11,6 @@ To use this project and get started just run
 ```
 git clone https://github.com/s6eskand/react-workshop
 ```
-or
-```
-git clone https://github.com/s6eskand/react-workshop
-```
-if you want the entire repository on your local machine.
 
 Once you have access to the repository, run change directories into completed/ or your custom project and run ```npm install```
 
