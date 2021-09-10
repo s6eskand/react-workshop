@@ -16,3 +16,11 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.search {
+    margin: 0 0 100px 0;
+}
+
+.movie {
+    margin: 10px 10px;
+}
